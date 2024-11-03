@@ -42,6 +42,18 @@ At BU, I am fortunate to be part of <a href="https://truthmarket.com/">Platform 
 
 Swapneel S Mehta, Sverre Wiedswang, **Zou Yang**, Nina. Mazar, Marshall Van Alstyne.
 
+<ol>
+  <li>
+    <a href="https://arxiv.org/abs/2410.16391">Causal Data Fusion for Panel Data without Pre-Intervention Period</a><br>
+    <strong>Zou Yang</strong>, Seung Hee Lee, Julia R. Köhler, AmirEmad Ghassamin
+  </li>
+  <li>
+    Improving the Governance of Digital Platforms with Interactive Marketplace Experiment
+    (IC<sup>2</sup>S<sup>2</sup> '24 oral)<br>
+    Swapneel S Mehta, Sverre Wiedswang, <strong>Zou Yang</strong>, Nina. Mazar, Marshall Van Alstyne.
+  </li>
+</ol>
+
 
 
 # 🎖 Honors and Awards
