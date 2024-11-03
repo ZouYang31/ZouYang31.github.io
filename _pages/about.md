@@ -38,7 +38,7 @@ At BU, I am fortunate to be part of <a href="https://truthmarket.com/">Platform 
 
 **Zou Yang**, Seung Hee Lee, Julia R. Köhler, AmirEmad Ghassamin
 
-[Improving the Governance of Digital Platforms with Interactive Marketplace Experiment](IC<sup>2</sup>S<sup>2</sup> '24 oral)
+**Improving the Governance of Digital Platforms with Interactive Marketplace Experiment**(IC<sup>2</sup>S<sup>2</sup> '24 oral)
 
 Swapneel S Mehta, Sverre Wiedswang, **Zou Yang**, Nina. Mazar, Marshall Van Alstyne.
 
