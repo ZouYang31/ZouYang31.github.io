@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zoey Wonderland"
-description              : "This page is Zou Yang’s academic profile."
+description              :  zoeyyang@bu.edu
 repository               : "ZouYang31/ZouYang31.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zou Yang"
+  name             : "Zoey(Zou) Yang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Boston University"
   location         : "Boston, US"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/ZouYang31"
   google_plus      :
   keybase          :
   instagram        :
