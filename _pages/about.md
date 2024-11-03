@@ -58,3 +58,5 @@ At BU, I am fortunate to be part of <a href="https://truthmarket.com/">Platform 
 
 # 🏞️ Hobbies
 At my leisure time, I enjoying practicing yoga(meditation), playing guita, snowboarding and drinking coffee. I am also a certified yoga teacher (RYT-200). 
+
+Thanks to <a href="https://rayeren.github.io/">Yi Ren</a> for this wonderful website template!
