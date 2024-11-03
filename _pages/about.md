@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Zoey (Zou) Yang, and I am a graduate student at Boston University with a focus on Computational Social Science. I am interested in developing machine learning and causal inference techniques to understand human behavior, improve decision-making, and address algorithmic bias. I am specially interested in health-related societal challenges. Before moving to Boston, I spent two years working as a Data Scientist/Data Analyst at tech company and AI startups.
+My name is Zoey (Zou) Yang, and I am a graduate student at Boston University in Data Science. I am interested in developing machine learning and causal inference techniques to understand human behavior, improve decision-making, and address algorithmic bias. I am specially interested in health-related societal challenges. Before moving to Boston, I spent two years working as a Data Scientist/Data Analyst at tech company and AI startups.
 
 
 # 🔥 News
@@ -26,7 +26,7 @@ My name is Zoey (Zou) Yang, and I am a graduate student at Boston University wit
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">place holder</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Causal Data Fusion for Panel Data without Pre-Intervention Period](https://arxiv.org/abs/2410.16391)
