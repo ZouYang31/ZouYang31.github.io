@@ -57,7 +57,6 @@ At BU, I am fortunate to be part of <a href="https://truthmarket.com/">Platform 
     <a href="https://github.com/ZouYang31/misinfo_detect_LLMs">LLMs for Misinformation Detection</a><br>
     <strong>Zou Yang</strong> – This project leverages large language models (LLMs) for fake news detection. The goal of this project is to see the performance of LLMs on task of fake news detection. 
   </li>
-  </li>
 </ol>
 
 
