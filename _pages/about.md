@@ -24,9 +24,10 @@ My name is Zoey(Zou) Yang, and I am a graduate student in Data Science at Boston
 
 At BU, I am fortunate to be part of <a href="https://truthmarket.com/">Platform Governance Research Lab</a>, advised by <a href="https://truthmarket.com/people/mva/index.html">Professor Van Alstyne</a>. I am also privileged to collaborate with <a href="https://www.aeghassami.com/">Professor Ghassami</a> from the Department of Mathematics and Statistics and <a href="https://www.childrenshospital.org/directory/julia-r-koehler">Professor Köhler</a> from Boston Children's Hospital to address community health issues using Causal Inference. 
 
-*Research Interest*
-1. One of the complexities in social science arises from the involvement of different covariates across various domains. How can we integrate data from different distributions to improve inference?
-2. AI + social science/public health. How can we leverage AI to promote health equity and gain deeper insights into human behavior? How can insights from human cognition help us design better AI systems?
+
+[**Research Interest**]
+1. *Data Fusion and Inference.* One of the complexities in social science arises from the involvement of different covariates across various domains. How can we integrate data from different distributions to improve inference?
+2. *AI + social science/public health.* How can we leverage AI to promote health equity and gain deeper insights into human behavior? How can insights from human cognition help us design better AI systems?
 
 
 # 🔥 News
