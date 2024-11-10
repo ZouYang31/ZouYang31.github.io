@@ -24,7 +24,9 @@ My name is Zoey(Zou) Yang, and I am a graduate student in Data Science at Boston
 
 At BU, I am fortunate to be part of <a href="https://truthmarket.com/">Platform Governance Research Lab</a>, advised by <a href="https://truthmarket.com/people/mva/index.html">Professor Van Alstyne</a>. I am also privileged to collaborate with <a href="https://www.aeghassami.com/">Professor Ghassami</a> from the Department of Mathematics and Statistics and <a href="https://www.childrenshospital.org/directory/julia-r-koehler">Professor Köhler</a> from Boston Children's Hospital to address community health issues using Causal Inference. 
 
-
+*Research Interest*
+1. One of the complexities in social science arises from the involvement of different covariates across various domains. How can we integrate data from different distributions to improve inference?
+2. AI + social science/public health. How can we leverage AI to promote health equity and gain deeper insights into human behavior? How can insights from human cognition help us design better AI systems?
 
 
 # 🔥 News
@@ -37,12 +39,23 @@ At BU, I am fortunate to be part of <a href="https://truthmarket.com/">Platform 
 <ol>
   <li>
     <a href="https://arxiv.org/abs/2410.16391">Causal Data Fusion for Panel Data without Pre-Intervention Period</a><br>
-    <strong>Zou Yang</strong>, Seung Hee Lee, Julia R. Köhler, AmirEmad Ghassamin
+    <strong>Zou Yang</strong>, Seung Hee Lee, Julia R. Köhler, AmirEmad Ghassami
   </li>
   <li>
     Improving the Governance of Digital Platforms with Interactive Marketplace Experiment
-    (IC<sup>2</sup>S<sup>2</sup> '24 oral)<br>
-    Swapneel S Mehta, Sverre Wiedswang, <strong>Zou Yang</strong>, Nina. Mazar, Marshall Van Alstyne.
+    (IC<sup>2</sup>S<sup>2</sup> '24 Oral)<br>
+    Swapneel S Mehta, Sverre Wiedswang, <strong>Zou Yang</strong>, Nina Mazar, Marshall Van Alstyne.
+  </li>
+</ol>
+
+
+
+# 💻 Projects
+<ol>
+  <li>
+    <a href="https://github.com/ZouYang31/misinfo_detect_LLMs">LLMs for Misinformation Detection</a><br>
+    <strong>Zou Yang</strong> – This project leverages large language models (LLMs) for fake news detection. The goal of this project is to see the performance of LLMs on task of fake news detection. 
+  </li>
   </li>
 </ol>
 
@@ -58,5 +71,7 @@ At BU, I am fortunate to be part of <a href="https://truthmarket.com/">Platform 
 
 # 🏞️ Hobbies
 At my leisure time, I enjoying practicing yoga(meditation), playing guita, snowboarding and drinking coffee. I am also a certified yoga teacher (RYT-200). 
+
+
 
 Thanks to <a href="https://rayeren.github.io/">Yi Ren</a> for this wonderful website template!
