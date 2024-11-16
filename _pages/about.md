@@ -70,7 +70,7 @@ At BU, I am fortunate to be part of <a href="https://truthmarket.com/">Platform 
 - *2024.04*, New England Student Research Symposium on Statistics and Data Science. 
 
 # 🏞️ Hobbies
-At my leisure time, I enjoying practicing yoga(meditation), playing guita, snowboarding and drinking coffee. I am also a certified yoga teacher (RYT-200). 
+At my leisure time, I enjoy practicing yoga(meditation), playing guita, snowboarding and drinking coffee. I am also a certified yoga teacher (RYT-200). 
 
 
 
