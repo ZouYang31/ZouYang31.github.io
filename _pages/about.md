@@ -20,9 +20,10 @@ redirect_from:
 
 
 
-My name is Zoey(Zou) Yang, and I am a graduate student in Data Science at Boston University. My research interests focus on developing machine learning and causal inference techniques to understand human behavior, improve decision-making, and address algorithmic bias, with a special interest in health-related societal challenges. Before moving to Boston, I spent two years working as a Data Scientist and Data Analyst at a tech company and AI startups. I hold an MS from Cornell University and a BA from Rutgers University.
+My name is Zoey(Zou) Yang, and I am an incoming PhD student at Dartmouth College. My research interests focus on developing machine learning and causal inference techniques to understand human behavior, improve decision-making, and address algorithmic bias, with a special interest in health-related societal challenges. Before moving to Boston, I spent two years working as a Data Scientist and Data Analyst at a tech company and AI startups. I hold an MS from Cornell University and Boston University and a BA from Rutgers University.
 
-At BU, I am fortunate to be part of <a href="https://truthmarket.com/">Platform Governance Research Lab</a>, advised by <a href="https://truthmarket.com/people/mva/index.html">Professor Van Alstyne</a>. I am also privileged to collaborate with <a href="https://www.aeghassami.com/">Professor Ghassami</a> from the Department of Mathematics and Statistics and <a href="https://www.childrenshospital.org/directory/julia-r-koehler">Professor Köhler</a> from Boston Children's Hospital to address community health issues using Causal Inference. 
+I am joining <a href="https://bijanmazaheri.com/"> Professor Bijan Mazaheri's lab to continue studying the intersection of machine learning and causal inference. 
+I am fortunate to be part of <a href="https://truthmarket.com/">Platform Governance Research Lab</a>, advised by <a href="https://truthmarket.com/people/mva/index.html">Professor Van Alstyne</a> from BU. I am also privileged to collaborate with <a href="https://www.aeghassami.com/">Professor Ghassami</a> from the Department of Mathematics and Statistics and <a href="https://www.childrenshospital.org/directory/julia-r-koehler">Professor Köhler</a> from Boston Children's Hospital to address community health issues using Causal Inference. 
 
 
 [**Research Interest**]
@@ -31,6 +32,8 @@ At BU, I am fortunate to be part of <a href="https://truthmarket.com/">Platform 
 
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 Our work "Causal Data Fusion for Panel Data without Pre-Intervention Period" has been accepted to IC<sup>2</sup>S<sup>2</sup> '25! See you all in Sweden.
+- *2025.03*: &nbsp;🗣️🎤 Presented “Causal Data Fusion for Panel Data without Pre-Intervention Period” at the ENAR Spring Meeting.
 - *2024.10*: &nbsp;🎉🎉 My first preprint "Causal Data Fusion for Panel Data without Pre-Intervention Period" is out!.
 - *2024.03*: &nbsp;🎉🎉 Our work has been accepted to IC<sup>2</sup>S<sup>2</sup> '24 oral!  
 
