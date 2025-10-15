@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zoey Wonderland"
-description              :  zoeyyang@bu.edu
+description              :  zou.yang.th@dartmouth.edu
 repository               : "ZouYang31/ZouYang31.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=dIKh7ooAAAAJ"
-  email            : "zoeyyang@bu.edu"
+  email            : "zou.yang.th@dartmouth.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile" 
   uri              :
   bitbucket        :
