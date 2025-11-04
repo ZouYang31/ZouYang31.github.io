@@ -20,9 +20,10 @@ redirect_from:
 
 
 
-As a PhD student at Dartmouth College, I develop machine learning and causal inference methods to better understand human behavior and improve decision-making, with a particular interest in health-related societal challenges. Before moving to Hanover, I spent two years working as a Data Scientist and Data Analyst at a tech company and several AI startups. I hold an MS from both Cornell University and Boston University, and a BA from Rutgers University.
+As a PhD student at Dartmouth College, I work on advancing the foundations of causal machine learning and designing data fusion algorithms for health and social applications. 
 
 I am currently a member of <a href="https://bijanmazaheri.com/"> Professor Bijan Mazaheri's lab</a> where I study the intersection of machine learning and causal inference. Our group focuses on challenges that arise when synthesizing information from multiple datasets, modalities, and batches into machine learning and AI models. 
+Before moving to Hanover, I spent two years working as a Data Scientist and Data Analyst at a tech company and several AI startups. I hold an MS from both Cornell University and Boston University, and a BA from Rutgers University.
 I was fortunate to be part of <a href="https://truthmarket.com/">Platform Governance Research Lab</a>, advised by <a href="https://truthmarket.com/people/mva/index.html">Professor Marshall Van Alstyne</a> at BU. I was also privileged to collaborate with <a href="https://www.aeghassami.com/">Professor AmirEmad Ghassami</a> from the Department of Mathematics and Statistics and <a href="https://www.childrenshospital.org/directory/julia-r-koehler">Professor Julia R. Köhler</a> from Harvard Medical School on projects addressing community health issues using causal inference.
 
 
