@@ -20,15 +20,16 @@ redirect_from:
 
 
 
-My name is Zoey(Zou) Yang, and I am a PhD student at Dartmouth College. My research interests focus on developing machine learning and causal inference techniques to understand human behavior, improve decision-making, and address algorithmic bias, with a special interest in health-related societal challenges. Before moving to Boston, I spent two years working as a Data Scientist and Data Analyst at a tech company and AI startups. I hold an MS from Cornell University and Boston University and a BA from Rutgers University.
+As a PhD student at Dartmouth College, I develop machine learning and causal inference methods to better understand human behavior and improve decision-making, with a particular interest in health-related societal challenges. Before moving to Hanover, I spent two years working as a Data Scientist and Data Analyst at a tech company and several AI startups. I hold an MS from both Cornell University and Boston University, and a BA from Rutgers University.
 
-I am joining <a href="https://bijanmazaheri.com/"> Professor Bijan Mazaheri's lab</a> to continue studying the intersection of machine learning and causal inference. 
-I am fortunate to be part of <a href="https://truthmarket.com/">Platform Governance Research Lab</a>, advised by <a href="https://truthmarket.com/people/mva/index.html">Professor Van Alstyne</a> from BU. I am also privileged to collaborate with <a href="https://www.aeghassami.com/">Professor Ghassami</a> from the Department of Mathematics and Statistics and <a href="https://www.childrenshospital.org/directory/julia-r-koehler">Professor Köhler</a> from Boston Children's Hospital to address community health issues using Causal Inference. 
+I am currently a member of <a href="https://bijanmazaheri.com/"> Professor Bijan Mazaheri's lab</a> where I study the intersection of machine learning and causal inference. Our group focuses on challenges that arise when synthesizing information from multiple datasets, modalities, and batches into machine learning and AI models. 
+I was fortunate to be part of <a href="https://truthmarket.com/">Platform Governance Research Lab</a>, advised by <a href="https://truthmarket.com/people/mva/index.html">Professor Marshall Van Alstyne</a> at BU. I was also privileged to collaborate with <a href="https://www.aeghassami.com/">Professor AmirEmad Ghassami</a> from the Department of Mathematics and Statistics and <a href="https://www.childrenshospital.org/directory/julia-r-koehler">Professor Julia R. Köhler</a> from Harvard Medical School on projects addressing community health issues using causal inference.
 
 
 [**Research Interest**]
-1. *Data Fusion and Inference.* One of the complexities in social science arises from the involvement of different covariates across various domains. How can we integrate data from different distributions to improve inference?
-2. *AI + social science/public health.* How can we leverage AI to promote health equity and gain deeper insights into human behavior? How can insights from human cognition help us design better AI systems?
+1. *Data Fusion and Inference.* One of the core challenges in social science and public policy research lies in integrating data from heterogeneous domains with differing covariates and distributions. I am interested in developing principled methods to integrate heterogeneous datasets across domains with differing covariates and distributions, improving causal inference and generalizable insights.
+2. *Causal Inference and Neural Networks.* My current work explores how causal inference frameworks can be combined with neural network architectures to enhance model interpretability and robustness. This includes studying how representation learning can capture causal structures and how causal reasoning can guide deep learning models toward more reliable decision-making.
+3. *AI + Social Science/Public Health.* How can we leverage AI to promote health equity and gain deeper insights into human behavior? How can insights from human cognition help us design better AI systems?
 
 
 # 🔥 News
@@ -70,7 +71,8 @@ I am fortunate to be part of <a href="https://truthmarket.com/">Platform Governa
 
   
 # 💬 Presentation
-- *2024.04*, New England Student Research Symposium on Statistics and Data Science. 
+- *2024.05*, ENAR Spring Meeting， New Orleans, LA
+- *2024.04*, New England Student Research Symposium on Statistics and Data Science
 
 # 🏞️ Hobbies
 At my leisure time, I enjoy practicing yoga(meditation), playing guita, snowboarding and drinking coffee. I am also a certified yoga teacher (RYT-200). 
